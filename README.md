@@ -14,25 +14,25 @@ new tasks and datasets to be added progressively.
 
 ## 📁 Repository Structure
 
-INCODEVISION-ML-INTERNSHIP/
-│
-├── Datasets/
-│ ├── Sample - Superstore.csv
-│ └── telecom_churn.csv
-│
-├── Tasks/
-│ ├── Task_1/
-│ │ └── Task_1_EDA.ipynb
-│ │
-│ ├── Task_2/
-│ │
-│ ├── Task_3/
-│ │
-│ └── Task_4/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+IncodeVision-ML-Internship<br>
+│<br>
+├── Datasets<br>
+│   ├── Sample - Superstore.csv<br>
+│   └── telecom_churn.csv<br>
+│<br>
+├── Tasks<br>
+│   ├── Task_1<br>
+│   │   └── Task_1_EDA.ipynb<br>
+│   │<br>
+│   ├── Task_2<br>
+│   │<br>
+│   ├── Task_3<br>
+│   │<br>
+│   └── Task_4<br>
+│<br>
+├── README.md<br>
+├── requirements.txt<br>
+└── .gitignore<br>
 
 
 ---
