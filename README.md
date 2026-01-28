@@ -69,7 +69,7 @@ machine learning concept.
 
 ---
 
-### 🔹 Task 02 – Linear Regression Model *(Upcoming)*
+### 🔹 Task 02 – Linear Regression Model ✅
 - Build a linear regression model to predict house prices
 - Data preprocessing and train-test splitting
 - Model training using scikit-learn
