@@ -123,8 +123,8 @@ Datasets are included to support hands-on experimentation and reproducibility.
 
 ## 🚀 Current Status
 
-- ✔ Task 01 completed
-- 🔄 Tasks 02, 03, and 04 in progress
+- ✔ Task 01,02 completed
+- 🔄 Tasks 03, and 04 in progress
 - 📌 Repository will be updated as tasks are completed
 
 ---
