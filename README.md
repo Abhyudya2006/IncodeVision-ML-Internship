@@ -116,7 +116,7 @@ The following publicly available datasets are used across tasks:
 
 - **Sample Superstore Dataset** – retail sales and profit analysis  
 - **Telecom Churn Dataset** – customer churn prediction  
--**House Price Prediction Dataset** - Linear Regression and Predictive Analytics
+- **House Price Prediction Dataset** - Linear Regression and Predictive Analytics
 
 Datasets are included to support hands-on experimentation and reproducibility.
 
